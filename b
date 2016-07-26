@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 adsfaf
 
 
@@ -24,3 +25,7 @@ asdf
 asdf
 grtwert
 asdfq4ts
+
+aadfa adsfasdf
+adfasdf
+adsfa
